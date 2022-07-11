@@ -4,7 +4,7 @@ I'm from Dhaka, Bangladesh. I'm currently working at Spectrum Software and Consu
 
 Experience, Languages & Technologies :
 
-- Work Experience : Property Rental Platform, Banking Software, ERP 
+- `Work Experience` : Property Rental Platform, Banking Software, ERP 
 - Programming Languages : Java, PHP, Python, JavaScript, Dart
 - Frameworks : Spring Boot, Spring Security, Angular, React Native, React JS, Flutter, JUnit, Mockito, Bootstrap, Django
 - Hardware Description Language : Verilog
