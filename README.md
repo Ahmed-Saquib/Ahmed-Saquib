@@ -4,13 +4,13 @@ I'm from Dhaka, Bangladesh. I'm currently working at Spectrum Software and Consu
 
 Experience, Languages & Technologies :
 
-- Work Experience - Property Rental Platform, Banking Software, ERP 
-- Programming Languages - Java, PHP, Python, JavaScript, Dart
-- Frameworks - Spring Boot, Spring Security, Angular, React Native, React JS, Flutter, JUnit, Mockito, Bootstrap, Django
-- Hardware Description Language - Verilog
-- Database - RDBMS, PostgreSQL, MySQL, H2
-- Operating System - Linux, Windows
-- Strength - Problem Solving, DSA
-- Software Engineering Practices - OOP, Git, Clean Code
-- Technologies - REST-API, Microservice, Monolith, Registry and Discovery service, API Gateway, Docker
-- Tools - VS Code, Atom, PyCharm, IntelliJ IDEA, Postman, Sublime text, DBeaver
+- Work Experience : Property Rental Platform, Banking Software, ERP 
+- Programming Languages : Java, PHP, Python, JavaScript, Dart
+- Frameworks : Spring Boot, Spring Security, Angular, React Native, React JS, Flutter, JUnit, Mockito, Bootstrap, Django
+- Hardware Description Language : Verilog
+- Database : RDBMS, PostgreSQL, MySQL, H2
+- Operating Systems : Linux, Windows
+- Strengths : Problem Solving, DSA
+- Software Engineering Practices : OOP, Git, Clean Code
+- Technologies : REST-API, Microservice, Monolith, Registry and Discovery service, API Gateway, Docker
+- Tools : VS Code, Atom, PyCharm, IntelliJ IDEA, Postman, Sublime text, DBeaver
